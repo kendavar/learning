@@ -1,0 +1,22 @@
+
+body {
+  background-image : url("https://hdwallsource.com/img/2014/5/beach-wallpaper-13045-13453-hd-wallpapers.jpg");
+  background-repeat: no-repeat;
+
+}
+
+div {
+  background-color: blue;
+  border-color: Red;
+  border-width: 2px;
+  border-style: dotted;
+}
+
+p {
+  color: yellow;
+}
+
+span {
+  background: red;
+  color: black;
+}

@@ -11,7 +11,6 @@ class SchoolListView(ListView):
     model =models.School
 
 class SchoolDetailView(DetailView):
-    
     model =models.School
     context_object_name ='school_details'
     template_name = 'basic_app/school_details.html'
